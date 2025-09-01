@@ -32,8 +32,7 @@ const seedDatabase = async () => {
         ✅ Building an interactive and responsive UI`,
         skills: ['HTML', 'CSS', 'JavaScript', 'Fetch API', 'GraphQL'],
         links: [
-          { label: 'GitHub', url: 'https://github.com/Anantgitu/LeetMetrics' },
-          { label: 'LeetCode', url: 'https://leetcode.com/u/anant_hitman45/' },
+          
         ],
       },
       {
@@ -57,8 +56,7 @@ const seedDatabase = async () => {
         ✅ Structuring a full-stack MVC-style app`,
         skills: ['Node.js', 'Express.js', 'MongoDB', 'EJS', 'JavaScript', 'CSS', 'HTML'],
         links: [
-          { label: 'GitHub', url: 'https://github.com/Anantgitu' },
-          { label: 'LinkedIn', url: 'www.linkedin.com/in/anant-sharma-7626772a3' },
+          
         ],
       },
     ];

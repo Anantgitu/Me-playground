@@ -11,7 +11,7 @@ const connectDB = async () => {
 
   try {
    
-    await mongoose.connect(`${uri}/me-playground`,{ autoIndex: true });
+    await mongoose.connect(`${uri}/playground`,{ autoIndex: true });
     console.log("MongoDB connected");
     return mongoose.connection;
   } catch (error) {
