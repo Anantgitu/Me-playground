@@ -125,19 +125,18 @@ This project is optimized for deployment on Vercel.
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| GET | https://me-playground.onrender.com/api/health | Checks the health status of the API. |
-| GET | https://me-playground.onrender.com/api/profile | Retrieves the main user profile data. |
-| POST | https://me-playground.onrender.com/api/profile | Creates or updates the main profile (auth req). |
-| GET | https://me-playground.onrender.com/api/projects | Gets a paginated list of all projects. |
-| GET | https://me-playground.onrender.com/api/projects?skill=... | Filters projects by a specific skill. |
-| GET | https://me-playground.onrender.com/api/skills/top | Gets the most frequently used skills. |
-| GET | https://me-playground.onrender.com/api/skills/search?q=... | Searches for skills by name (for autocomplete). |
+| GET | https://me-playground-backend-l2a3.onrender.com/api/health | Checks the health status of the API. |
+| GET |https://me-playground-backend-l2a3.onrender.com/api/profile | Retrieves the main user profile data. |
+| POST |https://me-playground-backend-l2a3.onrender.com/api/profile | Creates or updates the main profile (auth req). |
+| GET | https://me-playground-backend-l2a3.onrender.com/api/projects | Gets a paginated list of all projects. |
+| GET | https://me-playground-backend-l2a3.onrender.com/api/projects?skill=... | Filters projects by a specific skill. |
+| GET | https://me-playground-backend-l2a3.onrender.com/api/skills/top | Gets the most frequently used skills. |
+| GET | https://me-playground-backend-l2a3.onrender.com/api/skills/search?q=... | Searches for skills by name (for autocomplete). |
 
 ## 🔗 Links
 
-- **Live Demo:** -----
-- **Live API:** https://me-playground.onrender.com/api/health
-
+- **Live Demo:** https://me-playground-phi.vercel.app/
+- **Live API:**https://me-playground-backend-l2a3.onrender.com
 ## 📞 Contact
 
 **Anant Kumar**
@@ -146,4 +145,4 @@ This project is optimized for deployment on Vercel.
 - **GitHub:** https://github.com/Anantgitu/Me-playground
 
 *Deployed on Vercel*
-*Resume*--https://drive.google.com/file/d/156tEZtUksZysDbTW2Di8dQvoitGexFWq/view?usp=sharing
+*Resume*--
