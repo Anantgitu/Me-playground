@@ -144,5 +144,4 @@ This project is optimized for deployment on Vercel.
 - **Email:** sharmaanant5252@gmail.com
 - **GitHub:** https://github.com/Anantgitu/Me-playground
 
-*Deployed on Vercel*
-*Resume*--
+*Resume*--https://drive.google.com/file/d/1SdHUZjzBVLqH5QG0PQUbYrs8_YLVjejR/view?usp=sharing
