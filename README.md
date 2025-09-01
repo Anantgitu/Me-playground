@@ -135,15 +135,15 @@ This project is optimized for deployment on Vercel.
 
 ## 🔗 Links
 
-- **Live Demo:** https://me-playground-28y3.vercel.app/
+- **Live Demo:** -----
 - **Live API:** https://me-playground.onrender.com/api/health
 
 ## 📞 Contact
 
-**Vidhut Raushan**
+**Anant Kumar**
 
-- **Email:** vidhut35@gmail.com
-- **GitHub:** https://github.com/vid0326/Me-Playground
+- **Email:** sharmaanant5252@gmail.com
+- **GitHub:** https://github.com/Anantgitu/Me-playground
 
 *Deployed on Vercel*
 *Resume*--https://drive.google.com/file/d/156tEZtUksZysDbTW2Di8dQvoitGexFWq/view?usp=sharing
